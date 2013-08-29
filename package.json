@@ -1,0 +1,28 @@
+{
+  "name": "datarev-rethinkdb",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "JP Richardson <jprichardson@gmail.com>",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": ""
+    }
+  ],
+  "dependencies": {
+    "rethinkdb": "~1.8.0-0"
+  },
+  "devDependencies": {
+    "testutil": "~0.6.0"
+  },
+  "main": "./lib/datarev-rethinkdb.js",
+  "scripts": {
+    "test": "mocha test"
+  }
+}
