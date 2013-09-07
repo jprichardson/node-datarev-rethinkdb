@@ -1,11 +1,11 @@
 {
   "name": "datarev-rethinkdb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "homepage": "",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/jprichardson/node-datarev-rethinkdb"
   },
   "keywords": [],
   "author": "JP Richardson <jprichardson@gmail.com>",
